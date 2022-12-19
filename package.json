@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "json-server": "^0.17.1"
+  }
+}
