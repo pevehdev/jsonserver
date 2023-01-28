@@ -37,28 +37,32 @@
         "nome": "Coca cola",
         "volume": "350ml",
         "preco": 5.5,
-        "validade": "21/12/2020"
+        "validade": "21/12/2020",
+        "imagem": "https://i.imgur.com/YUP6yUj.png"
       },
       {
         "id": 2,
         "nome": "Coca cola",
         "volume": "600ml",
         "preco": 7.5,
-        "validade": "21/12/2020"
+        "validade": "21/12/2020",
+        "imagem": "https://i.imgur.com/YUP6yUj.png"
       },
       {
         "id": 3,
         "nome": "Guarana Antartica",
         "volume": "350ml",
         "preco": 5.5,
-        "validade": "21/12/2020"
+        "validade": "21/12/2020",
+        "imagem": "https://i.imgur.com/YUP6yUj.png"
       },
       {
         "id": 4,
         "nome": "Guarana Antartica",
         "volume": "600ml",
         "preco": 7.5,
-        "validade": "21/12/2020"
+        "validade": "21/12/2020",
+        "imagem": "https://i.imgur.com/YUP6yUj.png"
       }
     ],
     "Acompanhamentos":[
