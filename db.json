@@ -5,28 +5,29 @@
         "nome": "Hambúrguer",
         "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
         "preco": 8.5,
-        "categoria_id": 1
+        "imagem":"https://i.imgur.com/O4aGzmL.jpg"
+        
       },
       {
         "id": 2,
         "nome": "X-Búrguer",
         "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
         "preco": 10.5,
-        "categoria_id": 1
+        "imagem":"https://i.imgur.com/O4aGzmL.jpg"
       },
       {
         "id": 3,
         "nome": "X-Bacon",
         "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
         "preco": 12.5,
-        "categoria_id": 1
+        "imagem":"https://i.imgur.com/O4aGzmL.jpg"
       },
       {
         "id": 4,
         "nome": "X-Tudo",
         "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
         "preco": 14.5,
-        "categoria_id": 1
+        "imagem":"https://i.imgur.com/O4aGzmL.jpg"
       }
       
     ],
@@ -71,63 +72,72 @@
         "nome":"Batata com Cheddar",
         "descricao":"Porção de batata frita com cheddar",
         "preco": 10,
-        "tamanho": "Pequena"
+        "tamanho": "Pequena",
+        "imagem":"https://i.imgur.com/UHMy9SQ.png"
       },
       {
         "id": 2,
         "nome":"Batata com Cheddar",
         "descricao":"Porção de batata frita com cheddar",
         "preco": 15,
-        "tamanho": "Médio"
+        "tamanho": "Médio",
+        "imagem":"https://i.imgur.com/UHMy9SQ.png"
       },
       {
         "id": 3,
         "nome":"Batata com Cheddar",
         "descricao":"Porção de batata frita com cheddar",
         "preco": 20,
-        "tamanho": "Grande"
+        "tamanho": "Grande",
+        "imagem":"https://i.imgur.com/UHMy9SQ.png"
       },
       {
         "id": 4,
         "nome":"Batata com Cheddar e Bacon",
         "descricao":"Porção de batata frita com cheddar e Bacon",
         "preco": 15,
-        "tamanho": "Pequeno"
+        "tamanho": "Pequeno",
+        "imagem":"https://i.imgur.com/UHMy9SQ.png"
       },
       {
         "id": 5,
         "nome":"Batata com Cheddar e Bacon",
         "descricao":"Porção de batata frita com cheddar e Bacon",
         "preco": 20,
-        "tamanho": "Médio"
+        "tamanho": "Médio",
+        "imagem":"https://i.imgur.com/UHMy9SQ.png"
       },
       {
         "id": 6,
         "nome":"Batata com Cheddar e Bacon",
         "descricao":"Porção de batata frita com cheddar e Bacon",
         "preco": 25,
-        "tamanho": "Grande"
+        "tamanho": "Grande",
+        "imagem":"https://i.imgur.com/UHMy9SQ.png"
       },
       {
         "id": 7,
         "nome":"Onion Rings",
         "descricao":"Porção de Onion Rings",
         "preco": 10,
-        "tamanho": "Pequeno"
+        "tamanho": "Pequeno",
+        "imagem":"https://i.imgur.com/UHMy9SQ.png"
       },
       {
         "id": 8,
         "nome":"Onion Rings",
         "descricao":"Porção de Onion Rings",
         "preco": 15,
-        "tamanho": "Médio"
+        "tamanho": "Médio",
+        "imagem":"https://i.imgur.com/UHMy9SQ.png"
       },
       {
         "id": 9,
         "nome":"Onion Rings",
         "descricao":"Porção de Onion Rings",
         "preco": 20,
-        "tamanho": "Grande"
+        "tamanho": "Grande",
+        "imagem":"https://i.imgur.com/UHMy9SQ.png"
       }
     ],
     "Combos":[
@@ -136,7 +146,8 @@
         "nome": "Combo Fiel",
         "descricao":"Hamburger + Batata + Bebida 350ml",
         "preco": 20,
-        "Brinde":"Sim"
+        "Brinde":"Sim",
+        "imagem":"https://i.imgur.com/YaxLenb.jpg"
         
       },
       {
@@ -144,21 +155,24 @@
         "nome": "Combo Bolado",
         "descricao":"X-Búrguer + Batata + Bebida 350ml",
         "preco": 25,
-        "Brinde":"Sim"
+        "Brinde":"Sim",
+        "imagem":"https://i.imgur.com/YaxLenb.jpg"
       },
       {
         "id": 3,
         "nome": "Combo Ignorante",
         "descricao":"X-Bacon + Batata + Bebida 350ml",
         "preco": 30,
-        "Brinde":"Sim"
+        "Brinde":"Sim",
+        "imagem":"https://i.imgur.com/YaxLenb.jpg"
       },
       {
         "id": 4,
         "nome": "Combo Playboy",
         "descricao":"X-Tudo + Batata + Bebida 350ml",
         "preco": 35,
-        "Brinde":"Sim"
+        "Brinde":"Sim",
+        "imagem":"https://i.imgur.com/YaxLenb.jpg"
       }
     ]
   }
